@@ -1,5 +1,5 @@
 # Developed for Transfinite 2022
-
+# By Rahul Raaghav A, Kalaimani, Guru Vishnu M, Rusheek, Anas
 import socket
 import io
 import PIL.Image as Image
