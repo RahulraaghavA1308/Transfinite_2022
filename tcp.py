@@ -2,6 +2,7 @@
 # Contributors
 # Rahul Raaghav A, Kalaimani, Guru Vishnu M, Rusheek, Anas
 # Date 15 Oct
+# Conducted by NITT
 import socket
 import io
 import PIL.Image as Image
