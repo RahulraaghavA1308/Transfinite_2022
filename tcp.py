@@ -2,8 +2,6 @@
 
 # By Rahul Raaghav A, Kalaimani, Guru Vishnu M, Rusheek, Anas
 
-
->>>>>>> ce64b914ad52262962d07d6dc6041c73bb352d7c
 import socket
 import io
 import PIL.Image as Image
