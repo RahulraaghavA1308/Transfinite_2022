@@ -1,5 +1,6 @@
 # Developed for Transfinite 2022
-# ADD contributors
+
+# By Rahul Raaghav A, Kalaimani, Guru Vishnu M, Rusheek, Anas
 
 import socket
 import io
