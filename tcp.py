@@ -1,3 +1,5 @@
+# Developed for Transfinite 2022
+
 import socket
 import io
 import PIL.Image as Image
